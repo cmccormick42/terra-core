@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[726],{1376:function(n,e,t){"use strict";t.r(e);var a=t(0),o=t.n(a),r=t(860);e.default=function(){return o.a.createElement(r.a,{id:"post-menstrual-no-label",postMenstrualAge:"April 5, 2016"})}}}]);

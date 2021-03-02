@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[722],{1371:function(n,e,a){"use strict";a.r(e);var r=a(0),t=a.n(r),c=a(860);e.default=function(){return t.a.createElement(c.a,{id:"blank-demographics-banner"})}}}]);

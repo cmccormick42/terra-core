@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[724],{1373:function(e,a,n){"use strict";n.r(a);var c=n(0),d=n.n(c),t=n(860);a.default=function(){return d.a.createElement(t.a,{id:"deceased-demographics-no-label",deceasedDate:"March 12, 2017"})}}}]);
